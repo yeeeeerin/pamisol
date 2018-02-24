@@ -1,0 +1,6 @@
+framework module Pods_pamisol {
+  umbrella header "Pods-pamisol-umbrella.h"
+
+  export *
+  module * { export * }
+}

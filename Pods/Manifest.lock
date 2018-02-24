@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - DKLoginButton (4.0.3)
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.5.0):
+    - GoogleMaps (= 2.5.0)
+    - GooglePlaces (= 2.5.0)
+  - GooglePlaces (2.5.0):
+    - GoogleMaps/Base (= 2.5.0)
+  - PinterestLayout (1.0.3)
+  - SideMenu (3.1.5)
+  - SwiftyJSON (4.0.0)
+  - TimelineTableViewCell (1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireImage (~> 3.3)
+  - DKLoginButton
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - PinterestLayout
+  - SideMenu
+  - SwiftyJSON
+  - TimelineTableViewCell
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  DKLoginButton: ec80ac7a41cfd875e936c83f76efbb7734af30c8
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  GooglePlacePicker: 1573e644ab54564d95c2643edc0f29091609e966
+  GooglePlaces: dd70d9d71ea1c7944846afe67de3712c99b30a77
+  PinterestLayout: f1c7ec0254ffa842d69f1b43e4436c8ded4359b9
+  SideMenu: 47dbf9e4d878062d8994aed43f6e4bf6c1fea30b
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TimelineTableViewCell: 71a4bc787bfeb5a85083171d18b113a5f5db2be8
+
+PODFILE CHECKSUM: 6e9fffed8339f277eb2e6e00d3787e5c356b1f8e
+
+COCOAPODS: 1.4.0
